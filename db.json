@@ -1,0 +1,35 @@
+{
+  "stocks": [
+    {
+      "type": "braas",
+      "quantity": "80",
+      "buying_price": "1500",
+      "selling_price": "4500",
+      "date_added": "2023-08-06T07:58:29.024Z",
+      "id": 11
+    },
+    {
+      "type": "socks",
+      "quantity": "80",
+      "buying_price": "100",
+      "selling_price": "700",
+      "date_added": "2023-08-06T08:18:18.985Z",
+      "id": 14
+    },
+    {
+      "type": "panty",
+      "quantity": "305",
+      "selling_price": "50000",
+      "buying_price": "1000",
+      "id": 15
+    },
+    {
+      "type": "boxer",
+      "quantity": "4",
+      "buying_price": "300",
+      "selling_price": "500",
+      "date_added": "2023-08-06T08:47:38.422Z",
+      "id": 16
+    }
+  ]
+}
